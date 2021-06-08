@@ -1,0 +1,25 @@
+README 
+
+This program is build to automate an immunological search proccess. It'll help you save alot of time time, manage your data and go quickly with your work by using a file (.txt or .fasta) containing all your sequence locally on your owne machine rather then consulting each web site alone.
+
+It has three major part :
+	A - BLASTp on command line against Human reference genome.
+	B - NetMHCspan server , for CMH class I and CMH class II epitops research 
+	3 - Ensembl Polymorphisms research through the 1000 genome project .
+	
+	
+In order to Run this program successfully you'll need to :
+
+1- Have a UNIX operating system.
+
+2- install python 3.8 
+
+3- For BLAST part, go to terminal (Ctrl + Alt + t ) and run the following commad to install blast locally on your machine :
+$ # sudo apt-get install ncbi-blast+
+
+4- For NetMHCspan part, software packages are availbes for academic users only, on request : 
+NetMHCpan (class I) 4.1 version : https://services.healthtech.dtu.dk/cgi-bin/sw_request
+NetMHCIIpan (class II) 4.0 version : https://services.healthtech.dtu.dk/cgi-bin/sw_request
+
+5- For Polymorphisms part , you're okay ! 
+
