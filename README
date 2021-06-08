@@ -21,5 +21,5 @@ $ # sudo apt-get install ncbi-blast+
 NetMHCpan (class I) 4.1 version : https://services.healthtech.dtu.dk/cgi-bin/sw_request
 NetMHCIIpan (class II) 4.0 version : https://services.healthtech.dtu.dk/cgi-bin/sw_request
 
-5- For Polymorphisms part , you're okay ! 
+5- For Polymorphisms part , you're okay ! use the suitable python file for the type of search you want to run
 
