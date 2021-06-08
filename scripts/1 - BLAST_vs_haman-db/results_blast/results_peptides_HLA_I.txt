@@ -1,0 +1,628 @@
+# BLASTP 2.9.0+
+# Query: seq1
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	7	NP_036221	475	481	7	5.5	23.5	LPFNEGV	78	85.714
+1	7	XP_011542437	296	302	7	7.0	23.1	LPFNEGV	78	85.714
+1	7	XP_011542438	179	185	7	7.4	23.1	LPFNEGV	78	85.714
+# BLASTP 2.9.0+
+# Query: seq2
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq3
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq4
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 1 hits found
+4	10	XP_016878126	211	217	7	9.9	23.1	DGYIKIY	70	85.714
+# BLASTP 2.9.0+
+# Query: seq5
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq6
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq7
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 2 hits found
+1	9	NP_001935	388	396	9	1.2	25.2	KTFTVQKGI	100	77.778
+1	9	XP_011524152	388	396	9	1.2	25.2	KTFTVQKGI	100	77.778
+# BLASTP 2.9.0+
+# Query: seq8
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	9	NP_001010969	429	437	9	8.3	23.5	EVFDPSRFA	75	66.667
+1	9	XP_005270824	331	339	9	8.3	23.5	EVFDPSRFA	75	66.667
+1	9	NP_001295031	331	339	9	8.3	23.5	EVFDPSRFA	75	66.667
+# BLASTP 2.9.0+
+# Query: seq9
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq10
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq11
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq12 
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 2 hits found
+1	8	NP_055610	871	878	8	5.3	23.5	NSNNLDNK	89	87.500
+1	8	NP_001165124	847	854	8	5.6	23.1	NSNNLDNK	89	87.500
+# BLASTP 2.9.0+
+# Query: seq13
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 2 hits found
+1	8	XP_011535734	1141	1150	10	4.4	23.5	YRGCLFRKSN	89	80.000
+1	7	NP_060619	309	315	7	8.2	22.7	YRIFRKS	78	85.714
+# BLASTP 2.9.0+
+# Query: seq14
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq15
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq16
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+3	8	XP_011518935	94	99	6	1.8	24.8	NCYFPL	60	100.000
+3	8	XP_011518934	94	99	6	2.8	24.4	NCYFPL	60	100.000
+3	8	NP_525126	94	99	6	2.8	24.4	NCYFPL	60	100.000
+# BLASTP 2.9.0+
+# Query: seq17
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	11	XP_011514891	506	516	11	2.4	24.8	RSPRITGLCPF	100	72.727
+1	11	NP_112223	506	516	11	2.4	24.8	RSPRITGLCPF	100	72.727
+2	11	XP_016865254	124	131	10	7.5	23.5	FPD--NLCPF	91	70.000
+# BLASTP 2.9.0+
+# Query: seq18
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq19
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 1 hits found
+1	7	NP_001258629	72	78	7	4.1	23.5	QPTESII	78	85.714
+# BLASTP 2.9.0+
+# Query: seq20
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq22
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+2	8	XP_011518641	94	100	7	8.2	22.7	EVYNATR	78	85.714
+2	8	XP_005253161	94	100	7	8.2	22.7	EVYNATR	78	85.714
+2	8	XP_011518643	94	100	7	9.7	22.7	EVYNATR	78	85.714
+# BLASTP 2.9.0+
+# Query: seq23
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq24
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq25
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq26
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq27
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 1 hits found
+1	8	NP_001138409	181	188	8	8.5	22.7	YAWNANRI	100	75.000
+# BLASTP 2.9.0+
+# Query: seq28
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq29
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq30
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+2	9	XP_005271412	749	756	8	9.2	22.7	CYGVPPAK	89	75.000
+2	9	XP_005271411	749	756	8	9.2	22.7	CYGVPPAK	89	75.000
+2	9	NP_055478	749	756	8	9.2	22.7	CYGVPPAK	89	75.000
+# BLASTP 2.9.0+
+# Query: seq31
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq32
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq33
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+3	8	XP_011509306	3283	3288	6	9.7	23.1	PDDFTG	60	100.000
+3	8	XP_011509307	3282	3287	6	9.7	23.1	PDDFTG	60	100.000
+3	8	XP_011509308	3281	3286	6	9.7	23.1	PDDFTG	60	100.000
+# BLASTP 2.9.0+
+# Query: seq34
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq35
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq36
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq37
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq38
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq39
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq40
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq41
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+3	15	NP_001365150	153	165	13	8.5	24.4	FTDGSVTLNKGDI	87	61.538
+3	15	NP_001277114	149	161	13	8.6	24.4	FTDGSVTLNKGDI	87	61.538
+3	15	NP_001365148	159	171	13	8.8	24.4	FTDGSVTLNKGDI	87	61.538
+# BLASTP 2.9.0+
+# Query: seq42
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+2	9	XP_011516707	1744	1751	8	0.38	26.9	FNVFFPLM	80	75.000
+2	9	XP_011516706	1744	1751	8	0.38	26.9	FNVFFPLM	80	75.000
+2	9	XP_005272230	1744	1751	8	0.38	26.9	FNVFFPLM	80	75.000
+# BLASTP 2.9.0+
+# Query: seq43
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+2	8	XP_006722178	26	32	7	9.4	22.7	LQPLQTY	78	85.714
+2	8	NP_954871	26	32	7	9.4	22.7	LQPLQTY	78	85.714
+2	8	NP_001245177	26	32	7	9.4	22.7	LQPLQTY	78	85.714
+# BLASTP 2.9.0+
+# Query: seq44
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq45
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq46
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq47
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq48
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq49
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq50
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	9	XP_011531236	789	797	9	2.6	24.4	GVVFPHVSY	100	77.778
+1	9	NP_061897	789	797	9	2.6	24.4	GVVFPHVSY	100	77.778
+1	9	XP_006712097	789	797	9	2.6	24.4	GVVFPHVSY	100	77.778
+# BLASTP 2.9.0+
+# Query: seq51
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq52
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq53
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq54
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	7	NP_775922	2831	2837	7	1.3	24.8	FPREGIF	88	85.714
+1	7	XP_024308654	2831	2837	7	1.3	24.8	FPREGIF	88	85.714
+1	8	NP_001243838	136	143	8	1.9	24.4	FPPEGVFV	100	87.500
+# BLASTP 2.9.0+
+# Query: seq55
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq56
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq57
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq58
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq59
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq60
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+3	8	XP_005267003	695	700	6	8.1	22.7	FVTQRN	67	100.000
+3	8	NP_068775	744	749	6	8.6	22.7	FVTQRN	67	100.000
+3	8	XP_024302178	744	749	6	8.6	22.7	FVTQRN	67	100.000
+# BLASTP 2.9.0+
+# Query: seq61
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq62
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq63
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq64
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq65
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq66
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq67
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq68
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq69
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	7	NP_001193966	180	186	7	2.7	24.4	YEPYIKW	78	85.714
+1	7	NP_001193969	158	164	7	3.3	24.0	YEPYIKW	78	85.714
+3	7	XP_011535800	607	611	5	7.5	23.1	QYIKW	56	100.000
+# BLASTP 2.9.0+
+# Query: seq70
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+2	9	NP_000963	54	61	8	6.7	23.1	FVKWPRYI	89	62.500
+1	5	XP_011535800	607	611	5	9.8	22.7	QYIKW	56	100.000
+1	5	XP_006720032	607	611	5	9.8	22.7	QYIKW	56	100.000
+# BLASTP 2.9.0+
+# Query: seq71
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 1 hits found
+2	9	NP_000963	54	61	8	6.8	23.5	FVKWPRYI	80	62.500
+# BLASTP 2.9.0+
+# Query: seq72
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq73
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	8	NP_001257354	300	307	8	7.9	23.1	FDDDDPEP	80	75.000
+3	10	XP_011539421	622	629	8	8.9	23.1	DDDSEPIL	80	75.000
+3	10	XP_011539410	622	629	8	9.1	23.1	DDDSEPIL	80	75.000
+# BLASTP 2.9.0+
+# Query: seq74
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq75
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq76
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+2	9	NP_078808	213	220	8	2.0	24.4	LKGLKLHY	89	87.500
+2	9	XP_011510116	182	189	8	2.0	24.4	LKGLKLHY	89	87.500
+2	9	XP_011510118	213	220	8	2.0	24.4	LKGLKLHY	89	87.500
+# BLASTP 2.9.0+
+# Query: seq77
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq78
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 1 hits found
+5	13	XP_011538678	322	333	12	4.6	24.4	KRFEMTLPFQQF	69	66.667
+# BLASTP 2.9.0+
+# Query: seq79
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+3	8	XP_011538674	328	333	6	8.4	23.1	LPFQQF	60	100.000
+3	8	XP_016872447	309	314	6	8.4	23.1	LPFQQF	60	100.000
+3	8	XP_011538675	328	333	6	9.2	23.1	LPFQQF	60	100.000
+# BLASTP 2.9.0+
+# Query: seq80
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq81
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq82
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq83
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq84
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	11	NP_001308384	746	756	11	4.0	24.4	VGIHVNQLVPT	92	63.636
+1	11	NP_001032961	816	826	11	4.2	24.4	VGIHVNQLVPT	92	63.636
+1	11	NP_057400	817	827	11	4.2	24.4	VGIHVNQLVPT	92	63.636
+# BLASTP 2.9.0+
+# Query: seq85
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq86
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+2	8	XP_016861057	357	363	7	1.9	24.8	VYSTGSN	70	100.000
+2	8	XP_016861056	357	363	7	1.9	24.8	VYSTGSN	70	100.000
+2	8	XP_016861055	357	363	7	1.9	24.8	VYSTGSN	70	100.000
+# BLASTP 2.9.0+
+# Query: seq87
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq88
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq89
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 2 hits found
+5	10	NP_001091868	632	637	6	5.7	23.5	QSIIAY	60	100.000
+5	10	NP_004362	623	628	6	5.7	23.5	QSIIAY	60	100.000
+# BLASTP 2.9.0+
+# Query: seq90
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 2 hits found
+4	9	NP_001091868	632	637	6	5.2	23.5	QSIIAY	67	100.000
+4	9	NP_004362	623	628	6	5.3	23.5	QSIIAY	67	100.000
+# BLASTP 2.9.0+
+# Query: seq91
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 2 hits found
+4	9	NP_001091868	632	637	6	5.2	23.5	QSIIAY	67	100.000
+4	9	NP_004362	623	628	6	5.3	23.5	QSIIAY	67	100.000
+# BLASTP 2.9.0+
+# Query: seq92
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 1 hits found
+2	9	NP_775913	294	302	9	1.8	24.8	IIADYTMSL	89	88.889
+# BLASTP 2.9.0+
+# Query: seq93
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 1 hits found
+2	9	NP_775913	294	302	9	1.8	24.8	IIADYTMSL	89	88.889
+# BLASTP 2.9.0+
+# Query: seq94
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq95
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	8	XP_005249698	62	69	8	6.1	23.1	DTLPVSMT	89	75.000
+1	8	XP_016867318	338	345	8	6.3	23.1	DTLPVSMT	89	75.000
+1	8	NP_001333902	338	345	8	6.3	23.1	DTLPVSMT	89	75.000
+# BLASTP 2.9.0+
+# Query: seq96
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq97
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	8	NP_001357633	559	566	8	9.4	23.1	EEVFAQVR	73	75.000
+1	8	XP_016879418	524	531	8	9.4	23.1	EEVFAQVR	73	75.000
+1	8	XP_016879419	524	531	8	9.4	23.1	EEVFAQVR	73	75.000
+# BLASTP 2.9.0+
+# Query: seq98
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq99
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq100
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq101
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq102
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	7	XP_016881496	1099	1105	7	2.0	24.4	GLTVLPP	78	100.000
+1	7	XP_016881499	1106	1112	7	2.1	24.4	GLTVLPP	78	100.000
+1	7	XP_024307036	1009	1015	7	2.1	24.4	GLTVLPP	78	100.000
+# BLASTP 2.9.0+
+# Query: seq103
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq104
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq105
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq106
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+3	9	NP_001291972	162	168	7	2.4	24.4	ITSSWTF	78	85.714
+3	9	NP_004863	162	168	7	2.4	24.4	ITSSWTF	78	85.714
+3	9	NP_001291981	31	37	7	3.6	24.0	ITSSWTF	78	85.714
+# BLASTP 2.9.0+
+# Query: seq107
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq108
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 2 hits found
+1	8	NP_001317621	289	296	8	2.4	24.8	QIAYAMQM	80	75.000
+1	8	NP_002801	286	293	8	2.5	24.4	QIAYAMQM	80	75.000
+# BLASTP 2.9.0+
+# Query: seq109
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq110
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq111
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+2	9	NP_001333445	1106	1113	8	4.9	24.0	ENQELIAN	73	87.500
+2	11	XP_011538595	177	185	10	6.9	23.5	ENQKQIA-QF	91	80.000
+2	11	NP_116098	143	151	10	6.9	23.5	ENQKQIA-QF	91	80.000
+# BLASTP 2.9.0+
+# Query: seq112
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq113
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq114
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq115
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq116
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq117
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 1 hits found
+2	10	NP_714921	224	232	9	2.3	24.8	ILDMTSCSF	90	77.778
+# BLASTP 2.9.0+
+# Query: seq118
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 1 hits found
+2	10	NP_714921	224	232	9	1.9	25.2	ILDMTSCSF	82	77.778
+# BLASTP 2.9.0+
+# Query: seq119
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq120
+# Database: DB
+# Fields: q. start, q. end, subject acc., s. start, s. end, alignment length, evalue, bit score, subject seq, % query coverage per subject, % identity
+# 3 hits found
+1	8	NP_001010853	244	251	8	2.5	24.4	QMKPTWRV	89	75.000
+1	8	XP_016865780	58	65	8	2.5	24.4	QMKPTWRV	89	75.000
+1	8	XP_016865779	58	65	8	2.5	24.4	QMKPTWRV	89	75.000
+# BLASTP 2.9.0+
+# Query: seq121
+# Database: DB
+# 0 hits found
+# BLASTP 2.9.0+
+# Query: seq122
+# Database: DB
+# 0 hits found
+# BLAST processed 121 queries
